@@ -1,52 +1,32 @@
-# Hi there, I'm Rani Abu Sultan 👋
-
-## Visionary Full-Stack Architect | AI & Data-Driven Solutions
-
-I am a seasoned Full-Stack Architect and Developer with a passion for designing and engineering solutions that push the boundaries of what's possible. My work focuses on transforming complex data into powerful, intuitive, and high-performing applications that solve real-world challenges across science, business, and customer experience (CX).
-
-From architecting sophisticated data streamliners to developing intelligent analytics platforms, I thrive on turning visionary concepts into tangible, scalable, and impactful software.
+# Rani Abu Sultan
+### Principal Enterprise Architect | Cloud, Applied AI (RAG) & Master Data Systems Authority
+📍 **Riyadh, Saudi Arabia** &bull; 💼 [linkedin.com/in/ranibb](https://www.linkedin.com/in/ranibb) &bull; ✉️ [raniabusultan@gmail.com](mailto:raniabusultan@gmail.com)
 
 ---
 
-### 🚀 What I Do
+### Executive Profile
+Principal Enterprise and Cloud Solutions Architect with **16+ years of hands-on leadership** driving large-scale digital transformations across **Utilities, Financial Services, Insurance, Retail, and Healthcare** in Saudi Arabia. 
 
-*   **Pioneering Systems & CX Architecture:** I design and build multi-faceted SaaS platforms that handle diverse data, from nanoprobe telemetry to client feedback, to enhance user engagement and business intelligence.
-*   **Mastering Data Complexity & Applied AI:** I specialize in creating algorithms that transform complex datasets into actionable insights, applying AI to deeply understand customer needs and drive data-driven decisions.
-*   **Full-Stack Execution & System Delivery:** I lead the end-to-end development of robust web applications, integrating sophisticated frontend UIs with powerful, automated backends.
-*   **Future-Forward Innovation:** I am committed to leveraging modern frameworks and architectural principles to build for present needs and future breakthroughs.
+I operate at the intersection of **C-suite technology strategy** and **production-grade systems engineering**—facilitating executive discovery workshops, governing Tier-1 vendor delivery, slashing infrastructure CAPEX by **>40%**, and building high-concurrency cloud, data harmonization (ETL), and Agentic AI platforms from the ground up.
 
 ---
 
-### 💻 Tech Stack & Tools
+### Reference Production Architectures & Flagship Systems
 
-My expertise spans a wide range of modern technologies, allowing me to choose the right tool for every challenge.
-
-**Frontend:**
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Cloud:**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/-Google_Gemini-8E75B9?style=for-the-badge&logo=google-gemini&logoColor=white)
-
-**Databases & Search:**
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+| System / Platform | Architectural Scope & Core Engineering | Measurable Enterprise Impact |
+| :--- | :--- | :--- |
+| **1. National Master Data ETL & Directory Harmonization Engine** | Standalone, vendor-agnostic ETL pipeline enforcing a **24-column facility-centric schema** with composite-key bulk upsert, resolving corrupted Active Directory/ERP records and linking org hierarchies to GPS gate coordinates & SLA matrices. | Unified **3,772+ validated operational entities** and **1,990 security packages** across **137 Saudi cities** for **20,000+ users**. |
+| **2. Tenthify — Multi-Tenant GenAI (RAG) & Sovereign GRC Cloud** | Monorepo SaaS platform (**Angular 20/21 Universal SSR**, **Node.js 22 Cloud Run Gen 2**, **Google Cloud Tasks** 500-batch OIDC workers, **Sharded Counters**, and **Vertex AI Gemini Cosine Vector RAG**). | Digitized the **152-control Saudi NCA TPRA** & **51-question SDAIA PDPL PIA** into an automated weighted scoring & forensic Excel/SPSS export engine; **<500ms SSR** latency. |
+| **3. Multi-Tenant Enterprise BI & Econometric Analytics Core** | **780-file (6.6 MB)** TypeScript/RxJS analytical engine engineered from first principles: **$2^n$ binary truth-table state incubator**, **11-dimension Qlik-style associative cross-filter**, and dynamic schema reconstruction (`StreamLiner`). | Powered executive BI, NPS, Brand Health, and Mystery Shopping dashboards for **16+ major Saudi enterprises & ministries** (Tawuniya, Panda, Leejam, SAR, SBC, GOSI, HRDF). |
+| **4. Edge-to-Core Physical Access & Smart Facility Gateways** | Real-time integration bridging physical security turnstiles with enterprise VMS/ERP platforms via **Dahua DSS REST APIs**, enforcing synchronized dual-verification (**RFID + Dynamic QR**) inside a hardened **WAF/Reverse-Proxy DMZ**. | Sub-second (**<1s**) physical gate throughput; **>40% infrastructure CAPEX reduction** via compute virtualization rightsizing. |
+| **5. Autonomous Agentic Content & 2D SAD Synthesis Studio** | Multi-stage LLM orchestration (**Gemini 3.7 Flash & 3-Pro-Image**) extracting domain-accurate architectural topologies and rendering minimalist 2D Software Architecture Diagrams with automated multi-channel publishing. | Published **30+ bilingual (EN/AR) Enterprise Architecture & AI publications**; automated executive network CRM. |
 
 ---
 
-### 📫 Let's Connect
+### Core Architectural Domains & Technology Stack
 
-I'm always open to discussing new projects, innovative ideas, or opportunities to collaborate.
-
-*   **LinkedIn:** [linkedin.com/in/ranibb](https://www.linkedin.com/in/ranibb)
-*   **Email:** [raniabusultan@gmail.com](mailto:raniabusultan@gmail.com)
+- **Enterprise Architecture & Strategy:** `TOGAF Principles` &bull; `Domain-Driven Design (DDD)` &bull; `Microservices` &bull; `Agile / SAFe Operating Models` &bull; `50+ Page Technical Baselines ("Shadow BRDs")` &bull; `CAPEX/TCO Optimization`
+- **Applied AI & Data Engineering:** `Vertex AI (Gemini)` &bull; `Agentic AI Workflows` &bull; `Vector Embeddings & Cosine RAG` &bull; `Master Data Management (MDM / ETL)` &bull; `Elasticsearch` &bull; `Statistical SPSS/Excel Pipelines`
+- **Cloud, Backend & Concurrency:** `Google Cloud Platform (Cloud Run, Cloud Tasks, Firestore)` &bull; `AWS (Well-Architected)` &bull; `Oracle Cloud / 23ai Vector Search` &bull; `Node.js (v22 LTS)` &bull; `TypeScript` &bull; `REST & Edge IoT APIs`
+- **Frontend & Universal SSR:** `Angular (v20/21 Standalone, Signals, TransferState SSR)` &bull; `RxJS Reactive Streams` &bull; `Bilingual EN/AR RTL Engineering`
+- **Cybersecurity & Sovereign Compliance:** `Zero-Trust DMZ / WAF / Reverse Proxy` &bull; `Saudi NCA Controls (ECC / CCC / 152-Control TPRA)` &bull; `Saudi PDPL (Privacy Impact Assessments)` &bull; `HCIS Directives`
